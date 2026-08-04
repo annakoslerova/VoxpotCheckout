@@ -1,0 +1,10 @@
+.env
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# lokální výstupy běhů (mimo docs/, které se publikuje)
+out/
+runs/
